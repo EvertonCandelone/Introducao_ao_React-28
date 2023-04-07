@@ -1,0 +1,21 @@
+.form {
+    font-display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding-top: 5rem;
+    padding-left: 500px;
+}
+
+.label {
+    color: #007c8a; font-weight: 600;
+    font-size: 18px;
+
+}
+
+.input {
+    padding: 8px 16px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-bottom: 2px solid ;
+    border-radius: 5px;
+}
